@@ -2,6 +2,21 @@
 - I'm currently learning Full Stack = React, Node.js, Express, GraphQl, TypeScript
 - I'm looking to collaborate on C++ and TypeScript projects
 - Ask me about my workout routine :)
+
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 <!--
 **makyfj/makyfj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
