@@ -1,5 +1,5 @@
 ### Hi there, I'm Franklin aka maky 👋
-- I'm currently learning Full Stack = React, Node.js, Express, GraphQl, TypeScript
+- I'm currently learning Full Stack = React, Node.js, Express, GraphQL, TypeScript, AWS
 - I'm looking to collaborate on C++ and TypeScript projects
 - Ask me about my workout routine :)
 
