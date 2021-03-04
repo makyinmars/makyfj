@@ -1,22 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Franklin aka maky 👋
 - I'm currently learning Full Stack = React, Node.js, Express, GraphQl, TypeScript
 - I'm looking to collaborate on C++ and TypeScript projects
 - Ask me about my workout routine :)
 
+## A bit about me :)
+
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+const maky = {
+  code: [Javascript, Typescript, HTML, CSS, C++, C#],
+  tools: [React, Redux, Node, Django, Styled-Components, Jest, Tmux],
+  os: ["arch linux"],
+ challenge: "I am doing the #90daychallenge focused on react and typescript"
 }
 ```
+I love connecting with different people</b> so if you want to say <b>hi :D, I'll be happy to meet you more!</b> :)</em>
 <!--
 **makyfj/makyfj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
