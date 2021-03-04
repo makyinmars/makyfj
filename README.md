@@ -2,7 +2,7 @@
 - I'm currently learning Full Stack = React, Node.js, Express, GraphQl, TypeScript
 - I'm looking to collaborate on C++ and TypeScript projects
 - Ask me about my workout routine :)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makyfj)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **makyfj/makyfj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
