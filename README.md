@@ -13,7 +13,7 @@ const maky = {
  challenge: "I am doing the #90daychallenge focused on react and typescript"
 }
 ```
-I love connecting with different people</b> so if you want to say <b>hi :D, I'll be happy to meet you more!</b> :)</em>
+I love connecting with different people</b> so if you want to say <b>hi :D, I'll be happy to meet you and collaborate!</b> :)</em>
 <!--
 **makyfj/makyfj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
