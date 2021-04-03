@@ -7,10 +7,10 @@
 
 ```javascript
 const maky = {
-  code: [Javascript, Python, Typescript, C++, C#, Java, PHP],
+  code: [Javascript, Python, C++, C#, Java],
   tools: [React, Redux, Node, Django, Styled-Components, Jest, Netlify, mySQL],
   os: ["arch linux"],
- challenge: "I am doing the #90daychallenge focused on react and typescript"
+ challenge: "I am doing the #90daychallenge focused on react and javascript"
 }
 ```
 I love connecting with different people</b> so if you want to say <b>hi :D, I'll be happy to meet you and collaborate!</b> :)</em>
