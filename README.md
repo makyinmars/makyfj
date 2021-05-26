@@ -4,9 +4,6 @@
 - Ask me about my workout routine :)
 - My programming playlist :) https://open.spotify.com/playlist/5qS4k4o1Nv63BXYw6BC29w?si=8b0df14856ff4891
 
-## Github stats :)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makyfj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## A bit about me :)
 
 ```javascript
