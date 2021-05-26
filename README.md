@@ -4,6 +4,12 @@
 - Ask me about my workout routine :)
 - My programming playlist :) https://open.spotify.com/playlist/5qS4k4o1Nv63BXYw6BC29w?si=8b0df14856ff4891
 
+## Github stats :)
+<a href="https://github.com/makyfj/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makyfj_count=5" />
+</a>
+
 ## A bit about me :)
 
 ```javascript
