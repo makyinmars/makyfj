@@ -9,7 +9,7 @@
 ```javascript
 const maky = {
   code: [Javascript, Python, C++, C#, Java],
-  tools: [React, Redux, Node, Django, Styled-Components, Jest, Netlify, MySQL, MongoDB],
+  tools: [React, Redux, Node, Django, Styled-Components, Express, Bootstrap, Material-UI, Netlify, MySQL, MongoDB],
   os: ["arch linux"],
  challenge: "I am doing the #90daychallenge focused on react and javascript"
 }
