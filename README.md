@@ -11,7 +11,7 @@ const maky = {
   code: [Javascript, Python, C++, C#, Java],
   tools: [React, Redux, Node, Django, Styled-Components, Express, Bootstrap, Material-UI, Netlify, MySQL, MongoDB],
   os: ["arch linux"],
- challenge: "I am doing the #90daychallenge focused on react and javascript"
+ challenge: "10 Days Nextjs chanllengeeeee :)"
 }
 ```
 I love connecting with different people</b> so if you want to say <b>hi :D, I'll be happy to meet you and collaborate!</b> :)</em>
