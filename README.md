@@ -1,8 +1,9 @@
 ### Hi there, I'm Franklin aka maky 👋
-- I'm currently focusing on (MERN) Full Stack = React, Node.js, Express, MongoDB / GraphQL
+- I focus on (MERN) Full Stack = React, Node.js, Express, MongoDB / GraphQL
 - I'm looking to collaborate on Java, C++,Python and JavaScript projects
 - Ask me about my workout routine :)
 - My programming playlist :) https://open.spotify.com/playlist/5qS4k4o1Nv63BXYw6BC29w?si=8b0df14856ff4891
+- Currently working on TypeScript with NextJS
 
 ## A bit about me :)
 
