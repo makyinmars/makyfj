@@ -9,10 +9,10 @@
 
 ```javascript
 const maky = {
-  code: [Javascript, Python, C++, C#, Java],
-  tools: [React, Redux, Node, Django, Styled-Components, Express, Bootstrap, Material-UI, Netlify, MySQL, MongoDB],
-  os: ["arch linux"],
- challenge: "10 Days Nextjs chanllengeeeee :)"
+  code: [Javascript, Python, C++, C#, Java, TypeScript],
+  tools: [React, Redux, Node, NextJS, Django, Styled-Components, Express, Bootstrap, Material-UI, Netlify, MySQL, MongoDB],
+  os: ["arch linux, mac os"],
+ challenge: "10 Days Nextjs with TypeScript chanllengeeeee :)"
 }
 ```
 I love connecting with different people</b> so if you want to say <b>hi :D, I'll be happy to meet you and collaborate!</b> :)</em>
