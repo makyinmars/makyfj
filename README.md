@@ -9,7 +9,7 @@
 
 ```javascript
 const maky = {
-  code: [Javascript, Python, C++, C#, Java, TypeScript],
+  code: [Javascript, Python, C++, Java, TypeScript],
   tools: [React, Redux, Node, NextJS, Django, Styled-Components, Express, Bootstrap, Material-UI, Netlify, MySQL, MongoDB],
   os: ["arch linux, mac os"],
  challenge: "10 Days with NextJS"
