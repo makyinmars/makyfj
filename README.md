@@ -3,7 +3,7 @@
 - I'm looking to collaborate on Java, C++,Python and JavaScript projects
 - Ask me about my workout routine :)
 - My programming playlist :) https://open.spotify.com/playlist/5qS4k4o1Nv63BXYw6BC29w?si=8b0df14856ff4891
-- Currently working on NextJS
+- Currently working on MERN project >:)
 
 ## A bit about me :)
 
@@ -12,7 +12,7 @@ const maky = {
   code: [Javascript, Python, C++, Java, TypeScript],
   tools: [React, Redux, Node, NextJS, Django, Styled-Components, Express, Bootstrap, Material-UI, Netlify, MySQL, MongoDB],
   os: ["arch linux, mac os"],
- challenge: "10 Days with NextJS"
+ challenge: "10 Days with MERN"
 }
 ```
 I love connecting with different people</b> so if you want to say <b>hi :D, I'll be happy to meet you and collaborate!</b> :)</em>
