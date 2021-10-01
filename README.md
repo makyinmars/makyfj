@@ -12,7 +12,7 @@ const maky = {
   code: [Javascript, Python, C++, Java, TypeScript],
   tools: [React, Redux, Node, NextJS, Django, Styled-Components, Express, Bootstrap, Material-UI, Netlify, MySQL, MongoDB],
   os: ["arch linux, mac os"],
- challenge: "10 Days with MERN"
+ challenge: "20 Days with MERN"
 }
 ```
 I love connecting with different people</b> so if you want to say <b>hi :D, I'll be happy to meet you and collaborate!</b> :)</em>
