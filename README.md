@@ -17,6 +17,10 @@ const maky = {
 }
 ```
 I love connecting with different people</b> so if you want to say <b>hi :D, I'll be happy to meet you and collaborate!</b> :)</em>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makyfj)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **makyfj/makyfj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
