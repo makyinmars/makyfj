@@ -20,7 +20,7 @@ I love connecting with different people</b> so if you want to say <b>hi :D, I'll
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=makyfj&show_icons=true&theme=onedark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=makyfj&show_icons=true&theme=onedark" />
   
 </a>
 
