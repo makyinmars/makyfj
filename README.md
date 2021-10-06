@@ -19,8 +19,7 @@ const maky = {
 I love connecting with different people</b> so if you want to say <b>hi :D, I'll be happy to meet you and collaborate!</b> :)</em>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makyfj)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makyfj&show_icons=true&theme=onedark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makyfj&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
