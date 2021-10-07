@@ -13,7 +13,8 @@ const maky = {
   tools: [React, Redux, Node, NextJS, Django, Styled-Components, Express, Bootstrap, 
           Material-UI, Netlify, MySQL, MongoDB, NestJS, Vercel],
   os: ["arch linux, mac os"],
- challenge: "Working on IFoundThis uisng nestjs with postgres and TypeORM as backend and nextjs as frontend with chakra-ui"
+ challenge: "Working on IFoundThis uisng nestjs with postgres and TypeORM as backend and nextjs as 
+ frontend with chakra-ui"
 }
 ```
 I love connecting with different people</b> so if you want to say <b>hi :D, I'll be happy to meet you and collaborate!</b> :)</em>
