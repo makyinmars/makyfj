@@ -2,7 +2,7 @@
 - Focus on Full Stack Development: React, NodeJS, NestJS, MongoDB, Express, NestJS, Postgres, TypeScript
 - Ask me about my workout routine :)
 - My programming playlist :) https://open.spotify.com/playlist/5qS4k4o1Nv63BXYw6BC29w?si=8b0df14856ff4891
-- Currently working on IFoundThis project >:)
+- Currently working on [IFoundThis](https://github.com/makyfj/IFoundThis.git) project >:)
 
 ## A bit about me :)
 
