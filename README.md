@@ -23,9 +23,9 @@ I love connecting with different people</b> so if you want to say <b>hi :D, I'll
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=makyfj&show_icons=true&theme=onedark" />
   
 </a>
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 
 <!--
