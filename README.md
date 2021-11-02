@@ -16,7 +16,6 @@ const maky = {
              frontend with chakra-ui"
 }
 ```
-I love connecting with different people</b> so if you want to say <b>hi :D, I'll be happy to meet you and collaborate!</b> :)</em>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   
