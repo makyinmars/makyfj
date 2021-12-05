@@ -12,8 +12,8 @@ const maky = {
   tools: [React, Redux, Node, NextJS, Django, Styled-Components, Express, Bootstrap, 
           Material-UI, Netlify, MySQL, MongoDB, NestJS, Vercel],
   os: ["arch linux, mac os"],
- challenge: "Working on IFT uisng nestjs with postgres and TypeORM as backend and nextjs as 
-             frontend with chakra-ui"
+ challenge: "Working on Powerful using nodejs/express with postgres and prisma as backend and nextjs as 
+             frontend with graphql, apollo and tailwind css"
 }
 ```
 
