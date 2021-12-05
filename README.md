@@ -1,8 +1,8 @@
 ### Hi there, I'm Franklin aka maky 👋
-- Focusing on Full Stack Development: React, NodeJS, NestJS, MongoDB, Express, NestJS, Postgres, TypeScript
+- Focusing on Full Stack Development: React, NodeJS, NextJS, MongoDB, Express, NestJS, Postgres, TypeScript
 - Ask me about my workout routine :)
 - My programming playlist :) https://open.spotify.com/playlist/5qS4k4o1Nv63BXYw6BC29w?si=8b0df14856ff4891
-- 🔭 I’m currently working on [IFT](https://github.com/makyfj/IFoundThis.git) project >:)
+- 🔭 I’m currently working on [Powerful](https://github.com/makyfj/Powerful.git) project :)
 
 ## A bit about me :)
 
