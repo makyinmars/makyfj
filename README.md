@@ -10,10 +10,10 @@
 const maky = {
   code: [Javascript, Python, C++, Java, TypeScript],
   tools: [React, Redux, Node, NextJS, Django, Styled-Components, Express, Bootstrap, 
-          Material-UI, Netlify, MySQL, MongoDB, NestJS, Vercel],
+          Material-UI, Netlify, MySQL, MongoDB, NestJS, Vercel, Posgresql],
   os: ["arch linux, mac os"],
  challenge: "Working on Powerful using nodejs/express with postgres and prisma as backend and nextjs as 
-             frontend with graphql, apollo and tailwind css"
+             frontend with redux toolkit tailwind css"
 }
 ```
 
