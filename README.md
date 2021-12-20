@@ -23,7 +23,7 @@ const maky = {
   
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makyfj&show_icons=true&theme=onedark&hide=lua,c,Vim_script)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makyfj&show_icons=true&theme=onedark&hide=lua,c,vim script)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
