@@ -2,7 +2,7 @@
 - Focusing on Full Stack Development: React, NodeJS, NextJS, MongoDB, Express, NestJS, Postgres, TypeScript
 - Ask me about my workout routine :)
 - My programming playlist :) https://open.spotify.com/playlist/5qS4k4o1Nv63BXYw6BC29w?si=8b0df14856ff4891
-- 🔭 I’m currently working on [Powerful](https://github.com/makyfj/Powerful.git) project :). My personal workout tracking application :)
+- 🔭 I’m currently working on [Tobster](https://github.com/makyfj/Tobster.git) project :). My personal online shop to sell clothes :)
 
 ## A bit about me :)
 
@@ -12,8 +12,7 @@ const maky = {
   tools: [React, Redux, Node, NextJS, Django, Styled-Components, Express, Bootstrap, 
           Material-UI, Netlify, MySQL, MongoDB, NestJS, Vercel, Posgresql],
   os: ["arch linux, mac os"],
- challenge: "Working on Powerful using nodejs/express with postgres and prisma as backend and nextjs as 
-             frontend with redux toolkit tailwind css"
+ challenge: "Working on Tobster with JAMStack using NextJS, TypeScript, Auth0, Tailwindcss, Graphql, Apollo-Client, Prisma, PostgreSQL, and Stripe"
 }
 ```
 
