@@ -8,6 +8,7 @@
 - Build APIs with Flask
 - Learn AWS
 - Master GraphQL
+- Contribute to an open source project :)
 
 ## A bit about me :)
 
