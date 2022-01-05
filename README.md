@@ -4,11 +4,11 @@
 - My programming playlist :) https://open.spotify.com/playlist/5qS4k4o1Nv63BXYw6BC29w?si=8b0df14856ff4891
 
 ### 2022 Goals
-- Learn React Native
-- Build APIs with Flask
-- Learn AWS
-- Master GraphQL
-- Contribute to an open source project :)
+- [ ] Master GraphQL - In progress :)
+- [ ] Contribute to an open source project :)
+- [ ] Learn React Native
+- [ ] Build APIs with Flask
+- [ ] Learn AWS
 
 ## A bit about me :)
 
