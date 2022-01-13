@@ -15,7 +15,7 @@
 
 ```javascript
 const maky = {
-  code: [Javascript, Python, C++, Java, TypeScript],
+  code: [Javascript, Python, C++, Java, TypeScript, GraphQL],
   tools: [React, Redux, Node, NextJS, Django, Styled-Components, Express, Bootstrap, 
           Material-UI, Netlify, MySQL, MongoDB, NestJS, Vercel, Posgresql],
   os: ["arch linux, mac os"],
