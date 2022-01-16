@@ -5,18 +5,18 @@
 - Currently working on [[Todd](https://github.com/makyfj/Todd)] using Graphql, Nextjs, TypeScrit, Tailwindcss
 
 ### 2022 Goals
-- [ ] Learn GraphQL - In progress :)
-- [ ] Contribute to an open source project :)
-- [ ] Learn React Native
-- [ ] Build APIs with Flask
+- [x] Learn GraphQL
+- [ ] Learn React Native - In Progress
 - [ ] Learn AWS
+- [ ] Contribute to an open source project
+- [ ] Build APIs with Flask
 
 ## A bit about me :)
 
 ```javascript
 const maky = {
   code: [Javascript, Python, C++, Java, TypeScript, GraphQL],
-  tools: [React, Redux, Node, NextJS, Django, Styled-Components, Express, Bootstrap, 
+  tools: [React, Redux, Node, NextJS, Styled-Components, Express, Bootstrap, 
           Material-UI, Netlify, MySQL, MongoDB, NestJS, Vercel, Posgresql],
   os: ["arch linux, mac os"],
 }
