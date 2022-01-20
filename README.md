@@ -5,8 +5,8 @@
 
 ### 2022 Goals
 - [ ] Learn GraphQL - In Progress
-- [ ] Learn React Native
 - [ ] Learn AWS
+- [ ] Learn React Native
 - [ ] Contribute to an open source project
 - [ ] Build APIs with Flask
 
