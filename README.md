@@ -4,8 +4,8 @@
 - My programming playlist :) https://open.spotify.com/playlist/5qS4k4o1Nv63BXYw6BC29w?si=8b0df14856ff4891
 
 ### 2022 Goals
-- [x] Learn GraphQL
-- [ ] Learn React Native - In Progress
+- [ ] Learn GraphQL - In Progress
+- [ ] Learn React Native
 - [ ] Learn AWS
 - [ ] Contribute to an open source project
 - [ ] Build APIs with Flask
