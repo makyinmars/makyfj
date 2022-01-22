@@ -14,8 +14,9 @@
 
 ```javascript
 const maky = {
-  code: [Javascript, Python, C++, Java, TypeScript, GraphQL],
-  tools: [Nextjs, Nodejs, Express, MongoDB, PostgreSQL, Prisma, Vite, Tailwindcss, Chakra-UI, Material-UI],
+  code: [TypeScript, Javascript, GraphQL, Python, C++, Java],
+  tools: [Nextjs, Nodejs, Express, MongoDB, PostgreSQL, Prisma, Vite, 
+          Tailwindcss, Chakra-UI, MySQL, Redux, Heorku, Apollo, Nexus],
   os: ["arch linux, mac os"],
 }
 ```
