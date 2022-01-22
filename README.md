@@ -19,7 +19,7 @@ const maky = {
   os: ["arch linux, mac os"],
 }
 ```
-
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=makyfj&show_icons=true&theme=onedark" />
@@ -27,7 +27,7 @@ const maky = {
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makyfj&show_icons=true&theme=onedark&hide=lua,c,vim%20script,html,shell)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 
 <!--
