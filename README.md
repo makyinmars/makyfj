@@ -5,6 +5,7 @@
 
 ### 2022 Goals
 - [x] Learn GraphQL
+- [ ] Learn Go - In progress
 - [ ] Learn AWS
 - [ ] Learn React Native
 - [ ] Contribute to an open source project
