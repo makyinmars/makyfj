@@ -8,7 +8,7 @@
 - [ ] AWS Cloud Practitioner Essentials Certificate - In progress
 - [ ] Learn React Native - In progress
 - [ ] Contribute to an open source project
-- [ ] Build APIs with Flask
+- [ ] Build APIs with Python
 
 ## A bit about me :)
 
