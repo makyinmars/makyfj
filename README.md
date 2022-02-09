@@ -1,4 +1,4 @@
-### Hi there, I'm Franklin aka Maky 👋
+### Hi internet people 👋
 - Full Stack Developer: NextJS, TypeScript, MongoDB, Posgres, Tailwindcss, Prisma, Nodejs, Express, GraphQL
 - Ask me about my workout routine :)
 - My programming playlist :) https://open.spotify.com/playlist/5qS4k4o1Nv63BXYw6BC29w?si=8b0df14856ff4891
