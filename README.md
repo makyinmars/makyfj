@@ -1,5 +1,5 @@
 ### Hi internet people 👋
-- Full Stack Developer: NextJS, TypeScript, MongoDB, Posgres, Tailwindcss, Prisma, Nodejs, Express, GraphQL, DynamoDB
+- Full Stack Developer: NextJS, TypeScript, MongoDB, Posgres, Tailwindcss, Prisma, Nodejs, Express, GraphQL, DynamoDB, Amplify
 - Ask me about my workout routine :)
 - My programming playlist :) https://open.spotify.com/playlist/5qS4k4o1Nv63BXYw6BC29w?si=8b0df14856ff4891
 
@@ -16,7 +16,7 @@
 const Maky = {
   code: [TypeScript, Javascript, GraphQL, Python, C++, Java],
   tools: [Nextjs, Nodejs, Express, MongoDB, PostgreSQL, Prisma, Vite, 
-          Tailwindcss, Chakra-UI, MySQL, Redux, Heorku, Apollo, Nexus],
+          Tailwindcss, Chakra-UI, MySQL, Redux, Heorku, Apollo, Nexus, DynamoDB, Amplify],
   os: ["arch linux, mac os"],
 }
 ```
