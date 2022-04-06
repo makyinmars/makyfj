@@ -5,7 +5,7 @@
 
 ### 2022 Goals
 - [x] Learn GraphQL
-- [x] Learn React Native - In progress
+- [x] Learn React Native
 - [ ] AWS Cloud Practitioner Essentials Certificate - In progress
 - [ ] Contribute to an open source project
 - [ ] Build APIs with Python
