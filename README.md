@@ -6,6 +6,7 @@
 ### 2022 Goals
 - [x] Learn GraphQL
 - [x] Learn React Native
+- [ ] Learn tRPC - In Progress
 - [ ] Learn Docker - In Progress
 - [ ] Learn more about WebSockets
 - [ ] AWS Cloud Practitioner Essentials Certificate
