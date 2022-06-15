@@ -21,6 +21,7 @@ const Maky = {
   tools: [Nextjs, Nodejs, Express, MongoDB, PostgreSQL, Prisma, Vite, 
           Tailwindcss, Chakra-UI, MySQL, Redux, Heorku, Apollo, Nexus, DynamoDB, Amplify],
   os: ["arch linux, mac os"],
+  editor: ["neovim", "vscode"],
 }
 ```
 <!--
