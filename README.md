@@ -7,7 +7,8 @@
 - [x] Learn GraphQL
 - [x] Learn React Native
 - [ ] Learn Docker - In Progress
-- [ ] AWS Cloud Practitioner Essentials Certificate - In progress
+- [ ] Learn more about WebSockets
+- [ ] AWS Cloud Practitioner Essentials Certificate
 - [ ] Contribute to an open source project
 - [ ] Build APIs with Python
 
