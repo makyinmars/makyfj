@@ -5,11 +5,11 @@
 ### 2022 Goals
 - [x] Learn GraphQL
 - [x] Learn React Native
-- [ ] Learn tRPC - In Progress
+- [x] Contribute to an open source project
+- [x] Build a project with tRPC
 - [ ] Learn Docker - In Progress
 - [ ] Learn more about WebSockets
 - [ ] AWS Cloud Practitioner Essentials Certificate
-- [ ] Contribute to an open source project
 - [ ] Build APIs with Python
 
 ## A bit about me :)
