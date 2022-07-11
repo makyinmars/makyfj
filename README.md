@@ -10,7 +10,6 @@
 - [ ] Learn Docker - In Progress
 - [ ] Learn more about WebSockets
 - [ ] AWS Cloud Practitioner Essentials Certificate
-- [ ] Build APIs with Python
 
 ## A bit about me :)
 
