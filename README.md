@@ -7,7 +7,7 @@
 - [x] Learn React Native
 - [x] Contribute to an open source project
 - [x] Build a project with tRPC
-- [ ] Learn Docker - In Progress
+- [x] Learn Docker
 - [ ] Learn more about WebSockets
 - [ ] AWS Cloud Practitioner Essentials Certificate
 
