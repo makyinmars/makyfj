@@ -3,11 +3,11 @@
 - My programming playlist :) https://open.spotify.com/playlist/5qS4k4o1Nv63BXYw6BC29w?si=8b0df14856ff4891
 
 ### 2022 Goals
-- [x] Learn GraphQL
-- [x] Learn React Native
+- [x] Create a project with GraphQL
+- [x] Create a project with React Native
 - [x] Contribute to an open source project
 - [x] Build a project with tRPC
-- [x] Learn Docker
+- [x] Add Docker files to new projects
 - [ ] Learn more about WebSockets
 - [ ] AWS Cloud Practitioner Essentials Certificate
 
