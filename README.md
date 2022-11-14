@@ -8,7 +8,7 @@
 - [x] Contribute to an open source project
 - [x] Build a project with tRPC
 - [x] Add Docker files to new projects
-- [ ] Build a monorepo project with Turborepo - In progress
+- [ ] Built a backend API with go - In Progress
 - [ ] Learn more about WebSockets
 - [ ] AWS Cloud Practitioner Essentials Certificate
 
