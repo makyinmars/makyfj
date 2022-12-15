@@ -17,7 +17,7 @@
 ```javascript
 const Maky = {
   code: [TypeScript, Javascript, GraphQL, Python, C++, Java],
-  tools: [Nextjs, Nodejs, Express, MongoDB, PostgreSQL, Prisma, Vite, 
+  tools: [Nextjs, Nodejs, Express, MongoDB, PostgreSQL, Prisma, Vite, tRPC, 
           Tailwindcss, Chakra-UI, MySQL, Redux, Heorku, Apollo, Nexus, DynamoDB, Amplify],
   os: ["arch linux, mac os"],
   editor: [NeoVim, VSCode],
