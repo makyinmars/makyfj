@@ -1,4 +1,4 @@
-- Full Stack Developer: NextJS, TypeScript, MongoDB, Postgres, Tailwindcss, Prisma, Nodejs, Express, GraphQL, DynamoDB, Amplify
+- Full Stack Developer: NextJS, TypeScript, MongoDB, Postgres, Tailwindcss, tRPC, Prisma, Nodejs, Express, GraphQL, DynamoDB, Amplify
 - Ask me about my workout routine :)
 - My programming playlist :) https://open.spotify.com/playlist/5qS4k4o1Nv63BXYw6BC29w?si=8b0df14856ff4891
 
@@ -16,7 +16,7 @@
 
 ```javascript
 const Maky = {
-  code: [TypeScript, Javascript, GraphQL, Python, C++, Java],
+  code: [TypeScript, JavaScript, GraphQL, Python, Java],
   tools: [Nextjs, Nodejs, Express, MongoDB, PostgreSQL, Prisma, Vite, tRPC, 
           Tailwindcss, Chakra-UI, MySQL, Redux, Heorku, Apollo, Nexus, DynamoDB, Amplify],
   os: ["arch linux, mac os"],
