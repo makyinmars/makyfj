@@ -2,14 +2,7 @@
 - Ask me about my workout routine :)
 - My programming playlist :) https://open.spotify.com/playlist/5qS4k4o1Nv63BXYw6BC29w?si=8b0df14856ff4891
 
-### 2022 Goals
-- [x] Create a project with GraphQL
-- [x] Create a project with React Native
-- [x] Contribute to an open source project
-- [x] Build a project with tRPC
-- [x] Add Docker files to new projects
-- [ ] Built a backend API with go - In Progress
-- [ ] Learn more about WebSockets
+### 2023 Goals
 - [ ] AWS Cloud Practitioner Essentials Certificate
 
 ## A bit about me :)
