@@ -27,7 +27,7 @@ const Maky: User = {
     "Prisma",
     "Vite",
     "tRPC",
-    "Tailwind,
+    "Tailwind",
     "Astro",
     "MySQL",
     "Redux",
