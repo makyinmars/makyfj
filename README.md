@@ -5,6 +5,7 @@
 ### 2023 Goals
 
 - [ ] AWS Cloud Practitioner Essentials Certificate
+- [ ] React Native Projects
 
 #### A bit about Franklin :)
 
