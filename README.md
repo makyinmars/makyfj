@@ -4,6 +4,7 @@
 
 ### 2023 Goals
 
+- [ ] Build A Rust Project (In Progress)
 - [ ] AWS Cloud Practitioner Essentials Certificate
 - [ ] React Native Projects
 
