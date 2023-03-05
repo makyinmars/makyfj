@@ -18,7 +18,7 @@ interface User {
   editor: string;
 }
 
-const Maky: Franklin = {
+const Franklin: User = {
   code: ["TypeScript", "JavaScript", "GraphQL", "Python"],
   tools: [
     "Nextjs",
