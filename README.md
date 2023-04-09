@@ -1,6 +1,4 @@
-- Full Stack Developer: NextJS, TypeScript, MongoDB, Postgres, Tailwindcss, tRPC, Prisma, Nodejs, Express, GraphQL, DynamoDB, Amplify
-- Ask me about my workout routine :)
-- My programming playlist :) https://open.spotify.com/playlist/5qS4k4o1Nv63BXYw6BC29w?si=8b0df14856ff4891
+# Go fast, break things! 🏎 🚀 
 
 ### 2023 Goals
 
@@ -15,6 +13,7 @@ interface User {
   tools: string[];
   os: string;
   editor: string;
+  playlist: string;
 }
 
 const Franklin: User = {
@@ -38,5 +37,6 @@ const Franklin: User = {
   ],
   os: "Mac OS",
   editor: "NeoVim",
+  playlist: "https://open.spotify.com/playlist/5qS4k4o1Nv63BXYw6BC29w?si=8b0df14856ff4891"
 };
 ```
