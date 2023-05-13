@@ -2,8 +2,8 @@
 
 ### 2023 Goals
 
-- [ ] Build A Rust Project (In Progress)
-- [ ] React Native Projects
+- [ ] React Native Projects (In Progress)
+- [ ] Build A Rust Project
 
 #### A bit about Franklin :)
 
