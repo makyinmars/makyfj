@@ -1,10 +1,5 @@
 # Go fast, break things! 🏎 🚀 
 
-### 2023 Goals
-
-- [ ] React Native Projects (In Progress)
-- [ ] Build A Rust Project
-
 #### A bit about Franklin :)
 
 ```typescript
