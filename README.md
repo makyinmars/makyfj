@@ -1,6 +1,3 @@
-# Go fast, break things! 🏎 🚀 
-
-#### A bit about Franklin :)
 
 ```zig
 const std = @import("std");
@@ -38,3 +35,5 @@ pub fn main() !void {
     std.debug.print("  Playlist: {s}\n", .{franklin.playlist});
 }
 ```
+
+![glory](https://github.com/user-attachments/assets/c96412d9-c28c-4bd5-bcdb-fdbe2ec299e1)
