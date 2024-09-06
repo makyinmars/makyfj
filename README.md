@@ -9,7 +9,7 @@ const User = struct {
 };
 
 pub fn main() !void {
-    const franklin = User{
+    const maky = User{
         .code = &[_][]const u8{
             "Zig",
             "Go",
@@ -23,14 +23,14 @@ pub fn main() !void {
         .os = "Mac OS",
         .editor = "NeoVim",
     };
-    std.debug.print("Franklin's details:\n", .{});
+    std.debug.print("Maky's details:\n", .{});
     std.debug.print("  Code: ", .{});
     for (franklin.code) |lang| {
         std.debug.print("{s}, ", .{lang});
     }
-    std.debug.print("\n  OS: {s}\n", .{franklin.os});
-    std.debug.print("  Editor: {s}\n", .{franklin.editor});
-    std.debug.print("  Playlist: {s}\n", .{franklin.playlist});
+    std.debug.print("\n  OS: {s}\n", .{maky.os});
+    std.debug.print("  Editor: {s}\n", .{maky.editor});
+    std.debug.print("  Playlist: {s}\n", .{maky.playlist});
 }
 ```
 
